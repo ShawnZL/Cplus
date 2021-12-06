@@ -1,0 +1,3 @@
+"D:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\forstr2.dir/objects.a
+E:\mingw64\bin\ar.exe cr CMakeFiles\forstr2.dir/objects.a @CMakeFiles\forstr2.dir\objects1.rsp
+E:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\forstr2.dir/objects.a -Wl,--no-whole-archive  -o forstr2.exe -Wl,--out-implib,libforstr2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\forstr2.dir\linklibs.rsp
