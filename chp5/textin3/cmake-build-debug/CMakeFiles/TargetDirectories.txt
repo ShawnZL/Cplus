@@ -1,3 +1,0 @@
-E:/Demo/Cplus/chp5/textin3/cmake-build-debug/CMakeFiles/textin3.dir
-E:/Demo/Cplus/chp5/textin3/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Demo/Cplus/chp5/textin3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
