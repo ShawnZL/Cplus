@@ -1,3 +1,0 @@
-"D:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Queue_learn.dir/objects.a
-E:\mingw64\bin\ar.exe cr CMakeFiles\Queue_learn.dir/objects.a @CMakeFiles\Queue_learn.dir\objects1.rsp
-E:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Queue_learn.dir/objects.a -Wl,--no-whole-archive  -o Queue_learn.exe -Wl,--out-implib,libQueue_learn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Queue_learn.dir\linklibs.rsp

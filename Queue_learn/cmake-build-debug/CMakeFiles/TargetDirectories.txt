@@ -1,3 +1,0 @@
-E:/Demo/Cplus/Queue_learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/Demo/Cplus/Queue_learn/cmake-build-debug/CMakeFiles/Queue_learn.dir
-E:/Demo/Cplus/Queue_learn/cmake-build-debug/CMakeFiles/edit_cache.dir
